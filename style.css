@@ -56,3 +56,7 @@ p {
 .active {
   background-color: #333333;
 }
+
+.dot:hover {
+  background-color: #333333;
+}
